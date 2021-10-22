@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  function_2.c
+  function_3.c
+  function_4.c
+  function_5.c
+D:\課程\程式語言\class\ch2\C_code\ch2_lab1_2\source\function_5.c(7,18): warning C4101: 'temp2': 未參考的區域變數
+  正在產生程式碼...
+  ch2_lab1_2.vcxproj -> D:\課程\程式語言\class\ch2\C_code\ch2_lab1_2\temp\debug\ch2_lab1_2.exe
